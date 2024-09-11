@@ -1,0 +1,14 @@
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\bin\Debug\net8.0\пр1 ИСРПО Головиной.exe
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\bin\Debug\net8.0\пр1 ИСРПО Головиной.deps.json
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\bin\Debug\net8.0\пр1 ИСРПО Головиной.runtimeconfig.json
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\bin\Debug\net8.0\пр1 ИСРПО Головиной.dll
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\bin\Debug\net8.0\пр1 ИСРПО Головиной.pdb
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\obj\Debug\net8.0\пр1 ИСРПО Головиной.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\obj\Debug\net8.0\пр1 ИСРПО Головиной.AssemblyInfoInputs.cache
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\obj\Debug\net8.0\пр1 ИСРПО Головиной.AssemblyInfo.cs
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\obj\Debug\net8.0\пр1 ИСРПО Головиной.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\obj\Debug\net8.0\пр1 ИСРПО Головиной.dll
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\obj\Debug\net8.0\refint\пр1 ИСРПО Головиной.dll
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\obj\Debug\net8.0\пр1 ИСРПО Головиной.pdb
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\obj\Debug\net8.0\пр1 ИСРПО Головиной.genruntimeconfig.cache
+C:\Users\ИСП-41\source\repos\пр1 ИСРПО Головиной\пр1 ИСРПО Головиной\obj\Debug\net8.0\ref\пр1 ИСРПО Головиной.dll
